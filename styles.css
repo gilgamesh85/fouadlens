@@ -1,0 +1,163 @@
+
+
+
+h2 {
+    color: rgb(237, 173, 83);
+    
+        font-family: "Lobster", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+        text-align: center;
+        text-shadow: 1px 1px 0px rgba(0,0,0,0.2);
+      }
+
+        .ma-classe {
+            color: #997233;
+        }
+
+        
+
+        
+
+            
+
+                  li{
+                    font-family: "Poppins", sans-serif;
+                    font-weight: 100;
+                    font-style: italic;
+                    font-weight: 400;
+                    text-align: center;
+                      }
+                      
+                      .Photograpghe {
+                        font-weight: 700;
+                    }
+
+                    
+                        
+                        .titre {
+                          color: beige;
+                          font-family: "Lobster", sans-serif;
+                          font-weight: 900;
+                          font-style: normal;
+                          text-align: center;
+                          font-size: larger;
+                          background: linear-gradient( #ff7e5f,#feb47b);
+
+                          background-size: auto;
+                          text-shadow: 3px 3px 0px rgba(0,0,0,0.2);
+
+                          border-radius: 10px;
+                          font-size: xx-large;
+                          
+                      }
+                      
+                     
+                          
+                          body{
+                            background-color: white;
+ 
+                              }
+
+                              {
+                                font-family: "Lobster", sans-serif;
+                            font-weight: 400;
+                            
+                            text-align: right;
+                           
+                            background-color: #feb47b;
+                            font-size: 25px;
+                            border-radius: 10px 30px 0px 90px;
+                              }
+                            
+                              .Contactez-moi{
+                                ont-family: "Lobster", sans-serif;
+                                font-weight: 400;
+                                
+                                text-align: right;
+                                position: absolute;
+                                right: 0;
+                                text-shadow: 1px 1px 0px rgba(0,0,0,0.2);
+                                
+                                
+                                
+                              }
+                              
+                              .twitter{
+                                float: right;
+                                margin-right: 25px; 
+                                margin-left: 10px
+                              }
+
+                              span {
+                                
+                              }
+
+                              img:hover{
+                                opacity: 0.5;
+                              }
+
+                              .photo {
+                                margin: auto;
+                              }
+                            
+                              .container{
+                                display: flex;
+                                justify-content: center; /* Centrage horizontal */
+                                margin: auto;
+                                height: 50vh;
+                              }
+                          
+                              nav {
+                                
+                                color: black;
+                                text-decoration: none;
+                                display: flex;
+                                flex-direction: row;
+                                align-items: center;
+                                justify-content: space-between;
+                               
+                                
+                              }
+                              nav a {
+                                
+                                margin-left: 30px;
+                                
+                              }
+
+                              
+
+                              .description {
+                                font-family: "Poppins", sans-serif;
+                                font-weight: 100;
+                                font-style: italic;
+                                font-weight: 400;
+                                text-shadow: 1px 1px 0px rgba(0,0,0,0.2);
+                                
+                              
+                              }
+                              a {
+                                
+                                text-decoration: none;
+                              
+                    
+                              }
+                                
+
+                              .marron {
+                                
+                                color: #997233;
+                              
+                    
+                              }
+                              footer {
+                                background-color: white;
+                                padding: 20px 50px;
+                              }
+
+                              .accueil-photos {
+                                background-color: white;
+                                padding: 80px;
+
+                              
+                          
